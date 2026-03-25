@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
+<pre>   
 <strong>Input:</strong> num = 14
 <strong>Output:</strong> 6
 <strong>Explanation:</strong>&nbsp;
