@@ -3,7 +3,7 @@
 <p>In one step, if the current number is even, you have to divide it by <code>2</code>, otherwise, you have to subtract <code>1</code> from it.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p   >
 
 <pre>   
 <strong>Input:</strong> num = 14
